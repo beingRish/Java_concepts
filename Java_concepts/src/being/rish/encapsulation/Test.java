@@ -1,4 +1,4 @@
-package being.rish.Encapsulation;
+package being.rish.encapsulation;
 
 public class Test {
     public static void main(String[] args) {

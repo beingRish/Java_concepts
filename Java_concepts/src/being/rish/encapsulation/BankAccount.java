@@ -1,4 +1,4 @@
-package being.rish.Encapsulation;
+package being.rish.encapsulation;
 
 public class BankAccount {
     private long accountNumber;
