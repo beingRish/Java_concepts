@@ -1,0 +1,9 @@
+class -> Blueprint for object
+interface -> Blueprint for class
+
+in interface, only abstract methods and static constants
+
+Interface use-cases:->
+1. to achieve multiple inheritance
+2. to achieve abstraction
+
