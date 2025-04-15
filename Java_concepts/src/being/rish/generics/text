@@ -1,0 +1,12 @@
+Generic types allow you to define a class, interface or method with placeholders(type parameters) for the data types they will work with.
+
+T: Type
+E: Element(used in collections)
+K: Key(used in maps)
+V: value(used in maps)
+N: Number
+
+            WILDCARDS IN GENERICS
+In Java Generics, wildcards (?) are a special kind of type argument that can be used in method arguments or class definitions to represent an unknown type.
+They allow for more flexible and dynamic code by letting the type be specified later or be more loosely defined.
+
